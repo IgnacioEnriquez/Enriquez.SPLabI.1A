@@ -1,0 +1,341 @@
+# depslib dependency file v1.0
+1593557538 source:c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funcionesUTN.h"
+
+1593284802 c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\funcionesutn.h
+
+1593565324 source:c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+
+1593570386 c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\linkedlist.h
+
+1593569995 source:c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicletas.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
+1593556692 c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\parser.h
+
+1593563380 c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\informes.h
+
+1593569486 c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\controller.h
+
+1593563037 source:c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+	"bicicletas.h"
+
+1593569995 c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\bicicletas.h
+	"LinkedList.h"
+
+1593568811 source:c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+	"bicicletas.h"
+
+1593556577 source:c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+	"bicicletas.h"
+
+1593570392 source:c:\users\nachota-pc\desktop\parcial laboratorio 2 practica\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+	"bicicletas.h"
+
+1593603099 source:c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicletas.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
+1593603044 c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\bicicletas.h
+	"LinkedList.h"
+
+1593570386 c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\linkedlist.h
+
+1593284802 c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\funcionesutn.h
+
+1593556692 c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\parser.h
+
+1593563380 c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\informes.h
+
+1593603044 c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\controller.h
+
+1593557538 source:c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funcionesUTN.h"
+
+1593563037 source:c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+	"bicicletas.h"
+
+1593570465 source:c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+
+1593603414 source:c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+	"bicicletas.h"
+
+1593556577 source:c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+	"bicicletas.h"
+
+1593603283 source:c:\users\nachota-pc\desktop\descargas\parcial laboratorio 2 practica\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+	"bicicletas.h"
+
+1593603099 source:c:\users\nachota-pc\desktop\parcial laboratorio 2\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicletas.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
+1593603044 c:\users\nachota-pc\desktop\parcial laboratorio 2\bicicletas.h
+	"LinkedList.h"
+
+1593612778 c:\users\nachota-pc\desktop\parcial laboratorio 2\linkedlist.h
+
+1593284802 c:\users\nachota-pc\desktop\parcial laboratorio 2\funcionesutn.h
+
+1593614745 c:\users\nachota-pc\desktop\parcial laboratorio 2\parser.h
+
+1593614859 c:\users\nachota-pc\desktop\parcial laboratorio 2\informes.h
+
+1593615034 c:\users\nachota-pc\desktop\parcial laboratorio 2\controller.h
+
+1593614745 source:c:\users\nachota-pc\desktop\parcial laboratorio 2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
+1593557538 source:c:\users\nachota-pc\desktop\parcial laboratorio 2\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funcionesUTN.h"
+
+1593614859 source:c:\users\nachota-pc\desktop\parcial laboratorio 2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
+1593612778 source:c:\users\nachota-pc\desktop\parcial laboratorio 2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+
+1593613694 source:c:\users\nachota-pc\desktop\parcial laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+	"paises.h"
+	"time.h"
+
+1593614745 source:c:\users\nachota-pc\desktop\parcial laboratorio 2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
+1593614745 c:\users\nachota-pc\desktop\parcial laboratorio 2\paises.h
+	"LinkedList.h"
+
+1593614745 source:c:\users\nachota-pc\desktop\parcial laboratorio 2\paises.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
+1593614745 source:c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
+1593614745 c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\paises.h
+	"LinkedList.h"
+
+1593612778 c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\linkedlist.h
+
+1593284802 c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\funcionesutn.h
+
+1593614745 c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\parser.h
+
+1593614859 c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\informes.h
+
+1593615034 c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\controller.h
+
+1593557538 source:c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funcionesUTN.h"
+
+1593614859 source:c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
+1593612778 source:c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+
+1593613694 source:c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+	"paises.h"
+	"time.h"
+
+1593614745 source:c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\paises.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
+1593614745 source:c:\users\nachota-pc\desktop\parcial 2\parcial 2 laboratorio 1 enriquez ignacio\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+	"string.h"
+	"LinkedList.h"
+	"funcionesUTN.h"
+	"parser.h"
+	"informes.h"
+	"controller.h"
+
